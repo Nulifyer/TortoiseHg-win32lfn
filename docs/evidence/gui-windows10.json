@@ -1,0 +1,12 @@
+{
+  "repo": "C:\\lfn\\gui-final",
+  "file": "C:\\lfn\\gui-final\\directory123456789\\directory123456789\\directory123456789\\directory123456789\\directory123456789\\directory123456789\\directory123456789\\directory123456789\\directory123456789\\directory123456789\\directory123456789\\directory123456789\\directory123456789\\directory123456789\\directory123456789\\directory123456789\\directory123456789\\directory123456789\\caf\u00e9.txt",
+  "length": 367,
+  "revision": "0",
+  "status": "",
+  "contents": "GUI revision zero\n",
+  "extension_sha256": "36d5e9ddb7d0a9ffd93e3892a66fb1567a0e142595bc4d0b73251f39ff72a0f8",
+  "filesystem": "NTFS",
+  "hg_debuginstall": "checking encoding (cp1252)...\nchecking Python executable (C:\\lfn\\thg\\PFiles\\TortoiseHg\\hg.exe)\nchecking Python implementation (CPython)\nchecking Python version (3.9.13)\nchecking Python lib (C:\\lfn\\thg\\PFiles\\TortoiseHg\\lib\\library.zip)...\nchecking Python security support (sni,tls1.0,tls1.1,tls1.2,tls1.3)\nchecking Rust extensions (missing)\nchecking Mercurial version (7.0.1)\nchecking Mercurial custom build ()\nchecking module policy (c)\nchecking installed modules (C:\\lfn\\thg\\PFiles\\TortoiseHg\\lib\\library.zip\\mercurial)...\nchecking registered compression engines (bz2, bz2truncated, none, zlib, zstd)\nchecking available compression engines (bz2, bz2truncated, none, zlib, zstd)\nchecking available compression engines for wire protocol (zstd, zlib, bz2, none)\nchecking \"re2\" regexp engine (missing)\nchecking templates (C:\\lfn\\thg\\PFiles\\TortoiseHg\\templates)...\nchecking default template (C:\\lfn\\thg\\PFiles\\TortoiseHg\\templates\\map-cmdline.default)\nchecking commit editor... (notepad.exe)\nchecking username (GUI test <test@example.invalid>)\nno problems detected\n",
+  "passed": true
+}

@@ -1,0 +1,9 @@
+.venv/
+.research/
+.tmp/
+.cache/
+.vm/
+__pycache__/
+*.py[cod]
+dist/
+.test-results/

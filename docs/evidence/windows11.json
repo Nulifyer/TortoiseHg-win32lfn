@@ -1,0 +1,37 @@
+{
+  "platform": "Windows-10-10.0.26200-SP0",
+  "python": "3.9.13 (tags/v3.9.13:6de2ca5, May 17 2022, 16:36:42) [MSC v.1929 64 bit (AMD64)]",
+  "os_caption": "Microsoft Windows 11 Pro",
+  "filesystem_encoding": "mbcs",
+  "os_fsencode_sample": "636166c3a9",
+  "hg": "C:\\lfn\\thg\\PFiles\\TortoiseHg\\hg.exe",
+  "hg_version": "Mercurial Distributed SCM (version 7.0.1)",
+  "LongPathsEnabled": 1,
+  "workdir": "C:\\lfn\\scratch",
+  "hg_sha256": "dc67c4981a5200b72572d702ee4e58a99f75790414ae7a288b92ed0ced83102f",
+  "hg_manifest": {
+    "xml": null,
+    "error": 1813
+  },
+  "thg_manifest": {
+    "xml": null,
+    "error": 1813
+  },
+  "extension_sha256": "36d5e9ddb7d0a9ffd93e3892a66fb1567a0e142595bc4d0b73251f39ff72a0f8",
+  "native_add": {
+    "returncode": 1,
+    "stdout": "",
+    "stderr": "directory123456789\\directory123456789\\directory123456789\\directory123456789\\directory123456789\\directory123456789\\directory123456789\\directory123456789\\directory123456789\\directory123456789\\directory123456789\\directory123456789: The system cannot find the path specified\n"
+  },
+  "pattern": "test_*.py",
+  "tests": 48,
+  "failures": [],
+  "errors": [],
+  "skipped": [
+    [
+      "test_symlink_is_neither_followed_nor_deleted (test_cleanup.CleanupTests)",
+      "symlink creation unavailable: [WinError 1314] A required privilege is not held by the client: b'C:\\\\lfn\\\\scratch\\\\tmphemx6z80\\\\target' -> b'\\\\\\\\?\\\\C:\\\\lfn\\\\scratch\\\\tmphemx6z80\\\\segment123456789\\\\segment123456789\\\\segment123456789\\\\segment123456789\\\\segment123456789\\\\segment123456789\\\\segment123456789\\\\segment123456789\\\\segment123456789\\\\segment123456789\\\\segment123456789\\\\segment123456789\\\\segment123456789\\\\segment123456789\\\\segment123456789\\\\segment123456789\\\\segment123456789\\\\segment123456789\\\\linked'"
+    ]
+  ],
+  "seconds": 23.75
+}

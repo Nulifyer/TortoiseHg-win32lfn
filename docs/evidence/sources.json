@@ -1,0 +1,41 @@
+{
+  "upstream_revision": "a8052478845e23c379e2de04053ddbc8b9c98b4e",
+  "fork_commit": "cfabb7b750210a23ff6dc0e1913cb52afec39ed3",
+  "artifacts": [
+    {
+      "file": "mercurial-7.0.1.tar.gz",
+      "sha256": "0f4cde42ec6c15f7ff93d421e7a842fdb30ee7951b1dbc4aacaac06eac764b48",
+      "size": 8981165
+    },
+    {
+      "file": "tortoisehg-7.0.1.tar.gz",
+      "sha256": "ac20cb676a690f763bd5cdf550d8abff5a56d5004956230ff4976826259fd279",
+      "size": 8933585
+    },
+    {
+      "file": "tortoisehg-7.0.1-x64.msi",
+      "sha256": "39697eab1e17684737bdd36d840eabf71a63aa2d75c2b3edbbfcdf536731d4f9",
+      "size": 36634624
+    },
+    {
+      "file": "python-3.9.13-embed-amd64.zip",
+      "sha256": "938a1f3b80d580320836260612084d74ce094a261e36f9ff3ac7b9463df5f5e4",
+      "size": 8570740
+    },
+    {
+      "file": "mercurial-7.0.1-cp39-cp39-win_amd64.whl",
+      "sha256": "67facb6c04de7ae6ceff2fd6bc6c79a904d6ab7f80f1f50972609fcfb58b1704",
+      "size": 6729259
+    },
+    {
+      "file": "upstream.py",
+      "sha256": "724d1c5cad63fe51d858107f5f14699689002da80deba73bb03b7aed5eeb1e08",
+      "size": 13682
+    },
+    {
+      "file": "fork.py",
+      "sha256": "0e7a8fd065bf91d9e142521b72064ca898b12f47c7941a2e9103c1a7a3b981f1",
+      "size": 13893
+    }
+  ]
+}
